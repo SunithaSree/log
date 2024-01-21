@@ -1,0 +1,19 @@
+.cardjustify{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+       margin-top:40px;
+       margin-left: 70px;
+}
+.cardhover{
+        transition: 0.5s;
+}
+.cardhover:hover{
+        transform: scale(1.1);
+        background-color: #717171;
+}
+footer{
+position: absolute;
+bottom: 0;
+text-align: center;
+}
