@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sunithasreecs.github.io/Activitylog",
-  "name": "Activitylog",
+  "homepage": "https://sunithasreecs.github.io/log",
+  "name": "log",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
